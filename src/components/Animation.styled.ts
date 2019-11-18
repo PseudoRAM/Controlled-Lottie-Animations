@@ -8,7 +8,7 @@ export const Container = styled.div`
   align-items: center;
   justify-content: center;
   margin: -8px;
-  background-color: #272f2f;
+  background-color: #f6e58d;
 `;
 
 export const LottieWrapper = styled(Lottie)`

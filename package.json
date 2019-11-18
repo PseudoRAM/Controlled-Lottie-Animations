@@ -1,7 +1,7 @@
 {
   "name": "controlled-lottie-typescript",
   "version": "1.0.0",
-  "description": "Lottie animations with typescript and react",
+  "description": "Lottie animations with typescript and react with click handling and secondary animation on first animation completion after click.\n\nBetter, smoother, animation transitions in react with typescript and react hooks. ",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {

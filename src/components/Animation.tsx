@@ -60,7 +60,7 @@ const Animation = () => {
       <LottieWrapper
         isClickToPauseDisabled
         options={animationOptions}
-        height={300}
+        height={400}
         width={400}
         eventListeners={[
           {
